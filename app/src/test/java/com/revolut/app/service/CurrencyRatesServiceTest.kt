@@ -1,4 +1,4 @@
-package com.revolut.app.data.remote
+package com.revolut.app.service
 
 import com.google.gson.JsonObject
 import com.revolut.app.model.CurrencyRate

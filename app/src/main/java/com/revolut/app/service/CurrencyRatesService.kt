@@ -1,4 +1,4 @@
-package com.revolut.app.data.remote
+package com.revolut.app.service
 
 import com.revolut.app.model.CurrencyRate
 import retrofit2.Call
